@@ -1,28 +1,12 @@
-#include <studio.h>
-/**
- * main - main block
- * Return - 0
- */
-int main(void)
-{
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
-/*
- * File: 4-puts.c
- * Auth: Brennan D Baraban <375@holbertonschool.com>
- */
-
 #include <stdio.h>
-
 /**
- * main - Prints "Programming is like building a multilingual
- *                puzzle, followed by a new line.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always 0 (Success)
+ * Description - Printing lines
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-
 	return (0);
 }
