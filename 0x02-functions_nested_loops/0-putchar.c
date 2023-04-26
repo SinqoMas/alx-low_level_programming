@@ -9,8 +9,8 @@ int main(void)
 	int x;
 	for (c = 0; c < 8; c++)
 	{
-		_putchhar(abe[x]);
+		_putchar (c[x]);
 	}
-	_putchar('\n);
-	return(0);
-}
+	_putchar ("\n");
+	return (0);
+} 
