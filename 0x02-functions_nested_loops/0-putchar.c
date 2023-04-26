@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - prints putchar in lower case
+ * main - print _putchar
+ *Description - the output of this program is _putchar
  * returns 0
  */
 int main(void)
